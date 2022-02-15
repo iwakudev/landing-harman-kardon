@@ -1,6 +1,6 @@
 $(document).ready(function () {
   function mobileViewUpdate() {
-    var viewportWidth = $(window).width();
+    const viewportWidth = $(window).width();
     if (viewportWidth < 600) {
       $(".navbar.fixed-top").toggleClass("mobile");
     }
