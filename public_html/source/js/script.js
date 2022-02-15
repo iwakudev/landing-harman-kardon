@@ -8,12 +8,4 @@ $(document).ready(function () {
 
   $(window).on("load", mobileViewUpdate);
   $(window).on("resize", mobileViewUpdate);
-
-  AOS.init({
-    disable: false,
-    startEvent: "DOMContentLoaded", 
-    duration: 1000,
-    easing: "ease-in-out", 
-    once: true,
-  });
 });
