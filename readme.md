@@ -1,4 +1,4 @@
-# Day 1: Harman Kardon
+# Harman Kardon
 
 [![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://github.com/handokoadjip/slicing-day-1)
 [![stability-experimental](https://img.shields.io/badge/stability-experimental-orange.svg)](https://github.com/handokoadjip/slicing-day-1)
